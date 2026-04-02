@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Akshith Gojuru — AI/ML Engineer
+ I'm Akshith Gojuru — AI/ML Engineer
 
 ## About Me
 I build intelligent systems at the intersection of NLP, machine learning,
