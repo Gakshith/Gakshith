@@ -7,8 +7,13 @@ and data — from language models and predictive pipelines to production
 AI applications. Industry-tested at Innovaccer, currently pushing deeper
 into LLMs, NLP architectures, and applied ML at SFSU.
 
-## Skills
+## What I'm building
+- NLP pipelines — text classification, named entity recognition, semantic search
+- LLM-powered applications — fine-tuning, prompt engineering, RAG workflows
+- Predictive ML systems — end-to-end from data ingestion to deployed inference
+- Data visualization layers that turn model outputs into decisions
 
+## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
