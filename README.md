@@ -12,7 +12,10 @@ into LLMs, NLP architectures, and applied ML at SFSU.
 - LLM-powered applications — fine-tuning, prompt engineering, RAG workflows
 - Predictive ML systems — end-to-end from data ingestion to deployed inference
 - Data visualization layers that turn model outputs into decisions
-
+  
+## Open To
+- Research collaborations & co-authoring papers.
+  
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
