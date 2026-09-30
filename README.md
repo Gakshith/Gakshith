@@ -4,7 +4,7 @@
 ## About Me
 I build intelligent systems at the intersection of NLP, machine learning,
 and data — from language models and predictive pipelines to production
-AI applications. Industry-tested at Innovaccer, currently pushing deeper
+AI applications. Currently pushing deeper
 into LLMs, NLP architectures, and applied ML at SFSU.
 
 ## What I'm building
